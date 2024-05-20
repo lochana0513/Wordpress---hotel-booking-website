@@ -5,7 +5,7 @@ Large Files
 Due to file size limitations on GitHub, some large files are hosted externally. You can download them using the following link:
 
 Download Large File
-
+https://drive.google.com/drive/folders/1ypgJM-HvyO6EImzuJEgbnQrKH6_YrcC7?usp=sharing
 
 # WordPress Project Setup Using LocalWP
 
