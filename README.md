@@ -1,6 +1,11 @@
 # Wordpress---hotel-booking-website
  Hotel Booking Website with WordPress Using the VikBooking Plugin. 
 
+Large Files
+Due to file size limitations on GitHub, some large files are hosted externally. You can download them using the following link:
+
+Download Large File
+
 
 # WordPress Project Setup Using LocalWP
 
